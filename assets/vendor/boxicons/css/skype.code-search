@@ -1,0 +1,53 @@
+# Query: skype
+# ContextLines: 1
+
+12 results - 10 files
+
+index.html:
+  53            <a href="https://www.youtube.com/channel/UCmIeLTL4tIaDgio_9RzKnEw" class="youtube"><i class="bx bxl-youtube"></i></a>
+  54:           <a href="#" class="github"><i class="bx bxl-github"></i></a>
+  55            <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>
+
+index1.html:
+  53            <a href="#" class="instagram"><i class="bx bxl-instagram"></i></a>
+  54:           <a href="#" class="github"><i class="bx bxl-github"></i></a>
+  55            <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>
+
+inner-page.html:
+  53            <a href="#" class="instagram"><i class="bx bxl-instagram"></i></a>
+  54:           <a href="#" class="github"><i class="bx bxl-github"></i></a>
+  55            <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>
+
+portfolio-details.html:
+  53            <a href="#" class="youtube"><i class="bx bxl-youtube"></i></a>
+  54:           <a href="#" class="github"><i class="bx bxl-github"></i></a>
+  55            <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>
+
+assets\vendor\bootstrap-icons\bootstrap-icons.css:
+  1388  .bi-sd-card::before { content: "\f3ed"; }
+  1389: .bi-github::before { content: "\f3ed"; }
+  1390  .bi-slash-lg::before { content: "\f3ed"; }
+
+assets\vendor\bootstrap-icons\bootstrap-icons.json:
+  1367    "sd-card": 62445,
+  1368:   "github": 62445,
+  1369    "slash-lg": 62445,
+
+assets\vendor\bootstrap-icons\index.html:
+  6184      <div class="icon">
+  6185:       <i class="bi bi-github"></i>
+  6186:       <div class="label">github</div>
+  6187      </div>
+
+assets\vendor\boxicons\css\boxicons.css:
+  1012    }
+  1013:   .bxl-github:before {
+  1014      content: "\e93a";
+
+assets\vendor\boxicons\css\boxicons.min.css:
+  1: ⟪ 12026 characters skipped ⟫efore{content:"\e969"}.bxl-reddit:before{content:"\e96a"}.bxl-redux:before{content:"\e96b"}.bxl-sass:before{content:"\e96c"}.bxl-shopify:before{content:"\e96d"}.bxl-sketch:before{content:"\e96e"}.bxl-skype:before{content:"\e96f"}.bxl-slack:before{content:"\e970"}.bxl-slack-old:before{content:"\e971"}.bxl-snapchat:before{content:"\e972"}.bxl-soundcloud:before{content:"\e973"}.bxl-spotify:before{content:"\e974"}.bxl-spring-boot:before{content:"\e975"}.bxl-squarespace:before{content:"\e976"}.bxl-stack-overflow:before{content:"\e977"}.bxl-steam:before{content:"\e978"}.bxl-stripe:before{content:"\e979"}.bxl-tailwind-css:before{content:"\e97a"}.bxl-telegram:before{content:"\e97b"}.bxl-tiktok:before{content:"\e97c"}.bxl-trello:before{content:"\e97d"}.bxl-trip-advisor:before{content:"\e97e"}.bxl-tumblr:before{content:"\e97f"}.bxl-tux:before{content:"\e980"}.bxl-twitch:before{content:"\e981"}.bxl-twitter:before{content:"\e982"}.bxl-unity:before{content:"\e983"}.bxl-unsplash:before{content:"\e984"}.bxl-vimeo:before{content:"\e985"}.bxl-visa:before{content:"\e986"}.bxl-visual-studio:before{content:"\e987"}.bxl-vk:before{content:"\e988"}.bxl-vuejs:before{content:"\e989"}.bxl-whatsapp:before{co
+
+assets\vendor\boxicons\fonts\boxicons.svg:
+  136  <glyph unicode="&#xe96e;" glyph-name="bxl-sketch" data-tags="bxl-sketch" d="M273.92 551.68l238.080-465.493 238.080 465.493h-476.16zM251.733 801.707l-166.4-223.147h154.453l11.947 223.147zM512 826.88l-229.12-248.32h458.24l-229.12 248.32zM87.040 551.68l387.84-451.413-230.827 451.413h-157.013zM491.947 844.8h-6.4l-206.507-21.76c0.096-0.319 0.151-0.687 0.151-1.067s-0.055-0.747-0.158-1.094l0.007 0.027-11.52-219.733zM549.12 100.267l387.84 451.413h-157.013l-230.827-451.413zM744.533 820.053c-0.096 0.319-0.151 0.687-0.151 1.067s0.055 0.747 0.158 1.094l-0.007-0.027-213.333 22.613 224.427-243.627zM772.267 801.707l11.947-223.147h154.453l-94.72 127.147-71.68 96z" />
+  137: <glyph unicode="&#xe93a;" glyph-name="bxl-github" data-tags="bxl-github" d="M513.109 887.467c-235.051 0-425.557-190.507-425.557-425.557 0-187.989 121.899-347.52 291.029-403.84 21.291-3.84 28.971 9.259 28.971 20.523 0 10.112-0.341 36.907-0.469 72.363-118.4-25.685-143.403 57.088-143.403 57.088-19.285 49.152-47.232 62.251-47.232 62.251-38.613 26.411 2.944 25.813 2.944 25.813 42.752-2.987 65.152-43.861 65.152-43.861 37.973-65.024 99.669-46.251 123.819-35.371 3.883 27.52 14.976 46.293 27.093 56.917-94.464 10.709-193.792 47.232-193.792 210.347 0 46.379 16.597 84.437 43.691 114.133-4.309 10.795-19.029 54.101 4.224 112.64 0 0 35.712 11.477 116.992-43.563 31.915 9.029 68.579 14.257 106.451 14.336h0.045c37.912-0.063 74.577-5.293 109.364-15.021l-2.868 0.685c81.323 55.083 116.992 43.563 116.992 43.563 23.253-58.539 8.661-101.845 4.224-112.64 27.307-29.696 43.691-67.712 43.691-114.133 0-163.541-99.413-199.467-194.219-210.005 15.147-13.141 28.8-39.083 28.8-78.763 0-56.917-0.512-102.827-0.512-116.779 0-11.392 7.595-24.619 29.312-20.437 169.045 56.405 290.816 215.808 290.816 403.755 0 235.051-190.507 425.557-425.557 425.557z" />
+  138  <glyph unicode="&#xe970;" glyph-name="bxl-slack" data-tags="bxl-slack" d="M264.277 347.989c0-49.493-40.235-89.899-89.728-89.899-49.565 0.145-89.698 40.323-89.771 89.892v0.007c0.097 49.557 40.22 89.711 89.757 89.856h89.742v-89.856zM309.547 347.989c0 49.493 40.277 89.856 89.771 89.856 49.532-0.17 89.631-40.314 89.728-89.847v-225.033c-0.097-49.542-40.196-89.686-89.712-89.856h-0.016c-49.57 0.097-89.722 40.279-89.771 89.851v225.029zM399.317 708.736c-49.493 0-89.771 40.448-89.771 89.899s40.277 89.856 89.771 89.856c49.532-0.17 89.631-40.314 89.728-89.847v-89.908h-89.728zM399.317 663.509c49.547-0.17 89.656-40.338 89.728-89.892v-0.007c-0.097-49.542-40.196-89.686-89.712-89.856h-224.741c-49.55 0.145-89.674 40.299-89.771 89.847v0.009c0.073 49.575 40.205 89.753 89.757 89.899h224.739zM759.723 573.611c0 49.493 40.235 89.899 89.728 89.899 49.565-0.145 89.698-40.323 89.771-89.892v-0.007c-0.097-49.557-40.22-89.711-89.757-89.856h-89.742v89.856zM714.453 573.611c0-49.493-40.277-89.856-89.771-89.856-49.532 0.17-89.631 40.314-89.728 89.847v225.033c0.097 49.542 40.196 89.686 89.712 89.856h0.016c49.493 0 89.771-40.363 89.771-89.856v-225.024zM624.683 212.864c49.493 0 89.771-40.448 89.771-89.899s-40.277-89.856-89.771-89.856c-49.532 0.17-89.631 40.314-89.728 89.847v89.908h89.728zM624.683 258.091c-49.547 0.17-89.656 40.338-89.728 89.892v0.007c0.097 49.542 40.196 89.686 89.712 89.856h224.784c49.55-0.145 89.674-40.299 89.771-89.847v-0.009c-0.073-49.575-40.205-89.753-89.757-89.899h-224.782z" />
